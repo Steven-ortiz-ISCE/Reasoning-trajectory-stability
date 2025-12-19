@@ -1,4 +1,4 @@
-# Structural Coherence Evaluation (Research)
+# Structural Coherence Evaluation of Reasoning Trajectories (Research)
 
 This repository documents a research effort focused on detecting **structural instability
 in multi-step reasoning trajectories**, independent of semantic correctness or task success.
@@ -10,6 +10,8 @@ This work evaluates reasoning as **trajectories**, using pre-semantic structural
 - re-entry vs. inflation,
 - stabilization behavior,
 - trajectory collapse.
+
+These invariants are computed over sequential reasoning steps, treating reasoning as a geometric process rather than a semantic one.
 
 ## Included
 - Conceptual overview (docs)
