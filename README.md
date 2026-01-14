@@ -4,8 +4,7 @@ This repository documents a research effort focused on detecting **structural in
 in multi-step reasoning trajectories**, independent of semantic correctness or task success.
 
 Core idea:
-> Reasoning can fail structurally (inflate, drift, lose closure) *before* failure is visible in outputs.
-
+> Reasoning can fail **structurally** *before* failure is visible in outputs.
 This work evaluates reasoning as **trajectories**, using pre-semantic structural signals derived from trajectory geometry.
 
 This work evaluates reasoning as trajectories, using **pre-semantic structural signals derived from trajectory geometry**, rather than semantic correctness or task success.
