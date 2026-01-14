@@ -8,12 +8,12 @@ Core idea:
 
 This work evaluates reasoning as **trajectories**, using pre-semantic structural signals derived from trajectory geometry.
 
-These invariants are computed over sequential reasoning steps, treating reasoning as a geometric process rather than a semantic one.
+This work evaluates reasoning as trajectories, using **pre-semantic structural signals derived from trajectory geometry**, rather than semantic correctness or task success.
 
 ## Included
 - Conceptual overview (docs)
-- P0: early regime separation experiments
-- P1: cross-model consistency experiments
+- Early structural separation experiments
+- Cross-model consistency experiments
 - Figures (figures/)
 
 ## Not included
