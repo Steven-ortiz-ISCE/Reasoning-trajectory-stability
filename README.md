@@ -6,17 +6,14 @@ in multi-step reasoning trajectories**, independent of semantic correctness or t
 Core idea:
 > Reasoning can fail structurally (inflate, drift, lose closure) *before* failure is visible in outputs.
 
-This work evaluates reasoning as **trajectories**, using pre-semantic structural invariants such as:
-- re-entry vs. inflation,
-- stabilization behavior,
-- trajectory collapse.
+This work evaluates reasoning as **trajectories**, using pre-semantic structural signals derived from trajectory geometry.
 
 These invariants are computed over sequential reasoning steps, treating reasoning as a geometric process rather than a semantic one.
 
 ## Included
 - Conceptual overview (docs)
-- P0: minimal regime separation
-- P1: cross-model regime separation across prompts
+- P0: early regime separation experiments
+- P1: cross-model consistency experiments
 - Figures (figures/)
 
 ## Not included
